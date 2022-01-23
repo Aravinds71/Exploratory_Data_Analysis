@@ -7,4 +7,4 @@ I have done tasks on:-
  2. Prediction using Supervised Learning.
  3. Exploratory Data Analysis on Terrorism Dataset.
  4. Exploratory Data Analysis on Retail Dataset.
- 5. Prediction using Descisson Tree Algorithm.
+ 
